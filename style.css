@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.inp{
+    text-align: center;
+    padding: 15px;
+}
+.out{
+    background-color: rgb(41, 137, 75);
+}
+.inter{
+    text-align: center;
+}
+label{
+    font-size: large;
+}
